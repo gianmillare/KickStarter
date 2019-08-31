@@ -1,3 +1,6 @@
 # Project Preview
 ![](Images/analysispreview1.png)
-print("----------------------------------------------------------------")
+
+![](Images/analysispreview2.png)
+
+![](Images/analysispreview3.png)
